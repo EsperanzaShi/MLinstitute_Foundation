@@ -1,0 +1,3 @@
+[server]
+# Turn off the built‑in Python module watcher
+fileWatcherType = "none"
