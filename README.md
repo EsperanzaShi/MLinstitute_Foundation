@@ -3,8 +3,21 @@
 A containerized Streamlit + PyTorch digit recognizer, backed by PostgreSQL feedback logging.
 
 ---
+## 🔧 Prerequisites
 
-## 🚀 Quickstart with Docker
+Before you begin, make sure you have installed:
+
+- **Git** (to clone this repository)  
+  - Windows: [Git for Windows](https://git-scm.com/download/win)  
+  - macOS: `brew install git` or `xcode-select --install`  
+  - Linux: `sudo apt install git` (Debian/Ubuntu)  
+- **Docker & Docker Compose**  
+  - Windows/Mac: [Docker Desktop](https://www.docker.com/products/docker-desktop)  
+  - Linux: follow your distro’s [Docker install docs](https://docs.docker.com/engine/install/)
+
+Once those are in place, you can run:
+
+## 🚀 Quickstart With Commands
 
 1. **Clone** the repo:  
    ```bash
